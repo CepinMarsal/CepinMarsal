@@ -1,6 +1,6 @@
 <div align="center">
 
-# Cepin Marsal
+# Cepin Marsal Javier Hilmi Darmawan
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Informatics+Student;AI+%26+Data+Enthusiast;Machine+Learning+Learner;Building+Projects+and+Solving+Problems" />
 
